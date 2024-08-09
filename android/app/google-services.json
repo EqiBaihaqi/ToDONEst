@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "219135484081",
+    "project_id": "todonest-e3e88",
+    "storage_bucket": "todonest-e3e88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219135484081:android:dc6a760c310a99c9e04290",
+        "android_client_info": {
+          "package_name": "com.example.ToDONEst"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6zLcWHEZ0nFwJer576epEVVKVADZxbrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219135484081:android:afac176df883286ee04290",
+        "android_client_info": {
+          "package_name": "com.example.todonest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6zLcWHEZ0nFwJer576epEVVKVADZxbrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
